@@ -1,0 +1,7 @@
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\bin\Debug\BHANSA_ATC_Info_System.exe
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\bin\Debug\BHANSA_ATC_Info_System.pdb
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\obj\x86\Debug\BHANSA_ATC_Info_System.Form1.resources
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\obj\x86\Debug\BHANSA_ATC_Info_System.Properties.Resources.resources
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\obj\x86\Debug\BHANSA_ATC_Info_System.csproj.GenerateResource.Cache
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\obj\x86\Debug\BHANSA_ATC_Info_System.exe
+C:\Users\Amer\documents\visual studio 2010\Projects\BHANSA_ATC_Info_System\BHANSA_ATC_Info_System\obj\x86\Debug\BHANSA_ATC_Info_System.pdb
